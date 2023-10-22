@@ -2,9 +2,24 @@
 
 ## Overview
 
-In this challenge, you'll be using the concepts you've learned to complete the required activity. This activity presents a real-world situation in which your newfound JavaScript skills will come in handy. You are tasked with creating code for analyzing the financial records of a company. You have been provided with a financial dataset in the `starter/index.js` file.
+In this challenge, I will be required to use the concepts learned during week 4 of the bootcamp to complete the required activity - using javascript to calculate several required pieces of financial analysis calculations as outlined in the below acceptance criteria.
 
-## Instructions
+The motivation for this project was to take all the key learning in the third week of lessons and put them to use in a real world scenario by building a web tool that shows required data from a provided array that includes P&L information and dates. 
+
+The project was built to consolidate knowledge and usage of Javascript best practices. 
+
+This project solves key problems such as using given data in the form of an array to calculate required information and provide financial analysis.
+
+Key learnings: 
+
+1. Use javascript to carry out financial analysis
+2. Concatenate strings and numbers
+3. Round numbers to the nearest 100th
+4. How to utilise for loops 
+5. How to display data following specific format requirements
+6. How to upload the code to a Github pages site and use the inspect tool to see how the code works.
+
+## Acceptance Criteria
 
 1. Create a new GitHub repo called `Console-Finances`. Then, clone it to your computer.
 
@@ -37,61 +52,30 @@ When you open your code in the browser your resulting analysis should look simil
   Greatest Increase in Profits/Losses: Feb-2012 ($1926159)
   Greatest Decrease in Profits/Losses: Sep-2013 ($-2196167)
   ```
+## Installation
 
-Your final code should print the analysis to the console.
+There is no installation needed for this website.
 
-**Hints:**
+## Usage 
+This application was built for the purpose of completing a bootcamp test, to see the code please use the inspector tool in the browser.
 
-* You will need to do some research on your own for this project!
+1.[Click here to access the reposity where the code for this project is stored](https://github.com/vytautastv/Console-Finances)
 
-* Remember, in order to combine strings and variables in the console you will need to use **concatenation**.
+2.[Click here to access the live website hosted on Github pages](https://vytautastv.github.io/Console-Finances/)
 
-* How do you only print to the nearest 100th in JavaScript?
 
-## Grading Requirements
+## Credits
 
-This homework is graded based on the following criteria:
+Tutorials/resources used to assist with this project:
 
-### Technical Acceptance Criteria: 40%
+1. [Concatenate Strings and numbers](https://www.scaler.com/topics/string-concatenation-javascript/)
+2. [Round numbers to nearest 100th](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed)
+3. [Use for loops](https://www.w3schools.com/js/js_loop_for.asp)
 
-* Satisfies all of the above acceptance criteria.
-
-### Deployment: 32%
-
-* Application deployed at live URL.
-
-* Application loads with no errors.
-
-* Application GitHub URL submitted.
-
-* GitHub repository contains application code.
-
-### Repository Quality: 23%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for variable naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
-### Application Quality: 5%
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+## License
+This project is licensed under MIT, please refer to the LICENSE file that is seen in the Bootstrap-Portfolio repo to find additional details related to the license used in this project.
 
 ---
 
-## Copyright
 
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
